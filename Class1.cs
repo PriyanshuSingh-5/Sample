@@ -9,6 +9,6 @@ namespace ConsoleApp2
     class Class1
     {
         Console.WriteLine("priyanshu");
-            
+        Console.WriteLine("shaloo");    
     }
 }

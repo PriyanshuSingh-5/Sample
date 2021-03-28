@@ -10,5 +10,6 @@ namespace ConsoleApp2
     {
         Console.WriteLine("priyanshu");
         Console.WriteLine("shaloo");    
-    }
+  Console.WriteLine("Singh"); 
+ }
 }
